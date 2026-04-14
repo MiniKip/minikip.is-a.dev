@@ -1,0 +1,9 @@
+{
+    "owner": {
+        "username": "minikip",
+        "email": "minikip@proton.me"
+    },
+    "records": {
+        "CNAME": "website.netlify.app"
+    }
+}
