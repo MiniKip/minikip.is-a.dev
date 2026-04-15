@@ -4,6 +4,6 @@
         "email": "minikip@proton.me"
     },
     "records": {
-        "CNAME": "website.netlify.app"
+        "CNAME": "minikip.netlify.app"
     }
 }
